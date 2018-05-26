@@ -7,7 +7,7 @@ Current Build Directory Index=0
 ProjectRootRelative=./
 
 [CMake][CMake Build Directory 0]
-Build Directory Path=file:///home/carlosq/projects/SoccerView/build
+Build Directory Path=file:///home/jess-linux/Documents/Projects/SoccerView/build
 Build Type=Debug
 CMake Binary=file:///usr/bin/cmake
 Environment Profile=
@@ -18,3 +18,6 @@ Install Directory=
 Name=GCC
 Path=gcc
 Type=GCC
+
+[Project]
+VersionControlSupport=kdevgit

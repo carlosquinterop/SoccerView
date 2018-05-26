@@ -80,12 +80,19 @@ SoccerViewer::SoccerViewer(int camId)
     namedWindow("Real time video", WINDOW_NORMAL);
     resizeWindow("Real time video", 100, 200);
     QDesktopWidget dw;
+
     
     int x=dw.width()*0.3;
     int y=dw.height()*0.99;
     window->setFixedSize(x,y);
     
     stopCountingButton->setEnabled(false);
+    teamAFlagLabel->setScaledContents(true);
+    teamBFlagLabel->setScaledContents(true);
+    stadiumLabel->setScaledContents(true);
+    stadiumLabel->setFixedHeight(300);
+    teamAFlagLabel->setFixedHeight(100);
+    teamBFlagLabel->setFixedHeight(100);
      
     program = "bladeRF-cli";
     fileName = "scripts/bladerf_Luzhniki.script";
