@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+ec941382bfd6bdd8eee2c0a61f270aba src/moc_DigitalClock.cpp
+9a6f820d505933326baccd12e1494d5c src/moc_SoccerViewer.cpp
+ed9c890e4d39d1cc6a3602b1a86bc657 src/moc_cameraThread.cpp

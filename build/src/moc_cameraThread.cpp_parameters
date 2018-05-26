@@ -1,0 +1,8 @@
+-I/usr/local/include
+-I/usr/local/include/opencv
+-I/home/carlosq/projects/SoccerView
+-I/home/carlosq/projects/SoccerView
+-I/home/carlosq/projects/SoccerView/build
+-o
+/home/carlosq/projects/SoccerView/build/src/moc_cameraThread.cpp
+/home/carlosq/projects/SoccerView/src/cameraThread.h

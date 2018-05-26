@@ -24,6 +24,9 @@ SYSTEMS REQUIREMENTS
 
 INSTALLATION:
 	sudo apt-get install build-essential cmake qtdeclarative5-dev libgtk2.0-dev pkg-config libavcodec-dev libavformat-dev libswscale-dev libqt5serialport5-dev 
+	sudo add-apt-repository ppa:bladerf/bladerf
+	sudo apt-get update
+	sudo apt-get install bladerf
 
 	Steps to install openCV
 	https://docs.opencv.org/2.4/doc/tutorials/introduction/linux_install/linux_install.html?highlight=installation

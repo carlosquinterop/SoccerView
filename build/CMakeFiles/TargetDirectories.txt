@@ -1,0 +1,3 @@
+/home/carlosq/projects/SoccerView/build/CMakeFiles/rebuild_cache.dir
+/home/carlosq/projects/SoccerView/build/CMakeFiles/edit_cache.dir
+/home/carlosq/projects/SoccerView/build/CMakeFiles/soccerviewer.dir
