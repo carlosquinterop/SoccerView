@@ -76,7 +76,7 @@ SoccerViewer::SoccerViewer(int camId)
     
     camThread->setWorkingThread(true);
     camThread->setCamId(camId);
-    //camThread->start();
+    camThread->start();
     namedWindow("Real time video", WINDOW_NORMAL);
     resizeWindow("Real time video", 100, 200);
     QDesktopWidget dw;
