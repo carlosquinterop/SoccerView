@@ -1,0 +1,8 @@
+-I/opt/ros/kinetic/include/opencv-3.3.1-dev
+-I/opt/ros/kinetic/include/opencv-3.3.1-dev/opencv
+-I/home/jess-linux/Documents/Projects/SoccerView
+-I/home/jess-linux/Documents/Projects/SoccerView
+-I/home/jess-linux/Documents/Projects/SoccerView/build
+-o
+/home/jess-linux/Documents/Projects/SoccerView/build/src/moc_cameraThread.cpp
+/home/jess-linux/Documents/Projects/SoccerView/src/cameraThread.h
